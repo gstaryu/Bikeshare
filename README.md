@@ -10,3 +10,7 @@
 `train.py`：训练模型的代码
 
 `main.py`：训练入口
+
+LSTM、Transformer、TCN是经典的机器学习架构，结合共享单车数据，在TCN的基础上提出了TCN结合多任务（TCN-M）的模型。
+
+![model](https://github.com/user-attachments/assets/a71d9f45-f077-404f-8ae8-e68ea840f468)
