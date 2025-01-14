@@ -13,4 +13,5 @@
 
 LSTM、Transformer、TCN是经典的机器学习架构，结合共享单车数据，在TCN的基础上提出了TCN结合多任务（TCN-M）的模型。
 
-![model](https://github.com/user-attachments/assets/a71d9f45-f077-404f-8ae8-e68ea840f468)
+![model](https://github.com/user-attachments/assets/f20dd139-15ca-46f5-bffc-4595d18259ab)
+
